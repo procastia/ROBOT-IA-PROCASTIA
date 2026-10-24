@@ -1,0 +1,13 @@
+# Claves personales: nunca subir
+config.h
+firmware/Proxi/config.h
+
+# Binarios compilados (pueden contener tus claves)
+*.bin
+*.elf
+*.hex
+build/
+
+# Sistema
+.DS_Store
+Thumbs.db
